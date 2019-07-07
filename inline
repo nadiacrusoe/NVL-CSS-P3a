@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <hmtl>
+  <head>
+  <meta charset="UTF=8">
+  </head>
+  <body>
+  <h1 style="color:red;background color:black"> Días de la semana </h1>
+  <ul style="color:blue; border:2px solid black">
+   <li>Lunes</li>
+   <li>Martes</li>
+   <li>Miercoles</li>
+   <li>Jueves</li>
+   <li>Viernes</li>
+   <li>Sabado</li>
+   <li>Domingo</li>
+  </ul>
+  </body>
+</html>
